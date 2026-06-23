@@ -4,7 +4,7 @@
 
 **TryHackMe Profile:** [M4T.ANOIX](https://tryhackme.com/p/M4T.ANOIX)
 
-**Rank:** Top 50% | Completed Rooms: 9
+**Rank:** Top 40% | Completed Rooms: 9
 
 ## About
 
