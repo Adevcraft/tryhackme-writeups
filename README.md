@@ -1,15 +1,17 @@
 # TryHackMe Writeups
+
 **Author:** Muhammad Adeel Tariq
 
 **TryHackMe Profile:** [M4T.ANOIX](https://tryhackme.com/p/M4T.ANOIX)
-#SOC analyst learning journey — TryHackMe room writeups and analysis
-**Rank:** Top 40% | Completed Rooms: 9
+
+**Rank:** Top 50% | Completed Rooms: 9
 
 ## About
-SOC analyst learning journey — documenting every 
-room with key findings and takeaways.
+
+SOC analyst learning journey — documenting every room with key findings and takeaways.
 
 ## Completed Rooms
+
 | Room | Category | Status |
 |------|----------|--------|
 | Junior Security Analyst Intro | SOC | ✅ Done |
@@ -20,4 +22,4 @@ room with key findings and takeaways.
 | Mobile Acquisition | Forensics | ✅ Done |
 | Careers in Cyber | Career | ✅ Done |
 | SOC Fundamentals | SOC | ✅ Done |
-
+| SOC L1 Alert Triage | SOC | 🔄 In Progress |
